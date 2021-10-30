@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfhound905&label=Profile%20views&color=0e75b6&style=flat" alt="wolfhound905" /> </p>
 
-- 🔭 I’m currently working on [worker-bot](https://aidenhaines.com/worker-bot)
+- 🔭 I’m currently working on [popularity-contest](https://aidenhaines.com/popularity-contest)
 
-- 🌱 I’m currently learning **More Python and Vue.js**
+- 🌱 I’m currently learning **More Python**
 
 - 👨‍💻 All of my projects are available at [https://aidenhaines.com](https://aidenhaines.com)
 
