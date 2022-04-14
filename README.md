@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **More Python**
 
-- 👨‍💻 All of my projects are available at [https://aidenhaines.com](https://aidenhaines.com)
+- 👨‍💻 All of my projects are available here :)
 
 - 💬 Ask me about **What I'm working on**
 
