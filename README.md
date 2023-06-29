@@ -1,4 +1,4 @@
-<h1 align="center">Hey gamer 👋 I'm Aiden Haines</h1>
+<h1 align="center">Hey gamer 👋 I'm Aiden</h1>
 <h3 align="center">I am an average python coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfhound905&label=Profile%20views&color=0e75b6&style=flat" alt="wolfhound905" /> </p>
