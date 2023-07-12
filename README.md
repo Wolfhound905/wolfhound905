@@ -1,29 +1,19 @@
-<h1 align="center">Hey gamer 👋 I'm Aiden</h1>
-<h3 align="center">I am an average python coder</h3>
+## About Me
+Name: Aiden
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfhound905&label=Profile%20views&color=0e75b6&style=flat" alt="wolfhound905" /> </p>
+Email: aiden@wolfhound.dev
 
-- 🔭 I’m currently working on learning more things :)
+Discord: wolfhound905
 
-- 🌱 I’m currently learning **More Python**
+## Toolset
+- Python
+- TypeScript
+- MongoDB
+- SvelteKit
+- Tailwind CSS
+- Microsoft AD
 
-- 👨‍💻 All of my projects are available here :)
-
-- 💬 Ask me about **What I'm working on**
-
-- 📫 How to reach me **Wolfhound905 (Discord)**
-
-- ⚡ Fun fact **I'm really good at doing nothing.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/14700903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14700903" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wolfhound905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wolfhound905" height="30" width="40" /></a>
-<a href="https://discord.gg/nhxcvYcx5a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nhxcvYcx5a" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wolfhound905&show_icons=true&theme=tokyonight&locale=en" alt="wolfhound905" /></p>
-
+### Updates  (mm/dd/yyyy)
+`
+07/12/2023: I had to do some cleaning of my Github GPG Keys. This erased a lot of the commits that referenced me. That is why if you view my commit-graph and go to a commit, it is seemingly not linked to me. But rest assured. It was me. I plan to keep better care of my signing.
+`
