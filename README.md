@@ -1,6 +1,7 @@
 ## About Me
 
 Email: contact@wolfhound.dev
+
 Discord: wolfhound905
 
 ## Toolset
